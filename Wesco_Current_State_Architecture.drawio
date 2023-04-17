@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T09:08:14.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="11Z6j0DUT_l4eKk5dwKI" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:09:35.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zrgsjP2IVhYwB5Zyqa4K" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="ji-dvn0qjL40lko-ON4k">
-    <mxGraphModel dx="4820" dy="2535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3497" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="TrwFLLRDorfKgAdVW_bD-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="30" y="175" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" source="sN8kw6bikd-ZLt6cQEY8-3" target="TrwFLLRDorfKgAdVW_bD-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TrwFLLRDorfKgAdVW_bD-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="30" y="198" width="120" height="20" as="geometry" />
@@ -396,9 +393,6 @@
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-84" value="RLS and CLS &lt;br&gt;in Data Systems" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="1198.5" y="52.63369863013702" width="120" height="38.73287671232877" as="geometry" />
-        </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_chart-toggle-legend-16.png" vertex="1" parent="o0MfEB6f52l3Gd9McWNE-4">
-          <mxGeometry x="670" y="748" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-91" value="" style="group" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="1073.5" y="578" width="230" height="300" as="geometry" />
