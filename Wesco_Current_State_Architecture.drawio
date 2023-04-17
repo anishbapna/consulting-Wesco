@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T10:32:16.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="qM3NRvFr-4skWNTO9XOv" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T10:36:34.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zd_eB_WBOfTdqptQpnlU" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="ji-dvn0qjL40lko-ON4k">
-    <mxGraphModel dx="4820" dy="2535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5293" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o0MfEB6f52l3Gd9McWNE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-838" width="1660" height="1090" as="geometry" />
+        <mxCell id="o0MfEB6f52l3Gd9McWNE-3" value="a" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3305" y="18" width="1648" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-85" value="Wesco Current State Architecture" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="18" width="240" height="120" as="geometry" />
+          <mxGeometry x="-1900" y="36" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-86" value="Project: Data Discovery Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-85">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -19,11 +19,8 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-88" value="Last Updated: 17 April 2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-85">
           <mxGeometry y="90" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-109" value="Notes on Current State Architecture&lt;br&gt;&lt;ul&gt;&lt;li&gt;&amp;lt;To be updated&amp;gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-838" y="1120" width="1658" height="1050" as="geometry" />
-        </mxCell>
         <mxCell id="o0MfEB6f52l3Gd9McWNE-4" value="" style="group;fillColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-811" y="141" width="1585" height="938" as="geometry" />
+          <mxGeometry x="-3278" y="159" width="1585" height="938" as="geometry" />
         </mxCell>
         <mxCell id="TrwFLLRDorfKgAdVW_bD-268" value="&lt;b&gt;Enterprise Data Platform Security &amp;amp; Governance&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="1040" width="300" height="128" as="geometry" />
@@ -467,10 +464,10 @@
           <mxGeometry x="161" y="275" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o0MfEB6f52l3Gd9McWNE-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CURRENT STATE ENTERPRISE DATA PLATFORM ARCHITECTURE BLUEPRINT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="20" width="1340" height="60" as="geometry" />
+          <mxGeometry x="-3281" y="38" width="1340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o0MfEB6f52l3Gd9McWNE-14" value="Target System Logical Grouping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="554" y="1040" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1913" y="1058" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
