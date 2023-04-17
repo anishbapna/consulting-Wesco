@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T08:48:49.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EMCocRHp1mY1gUV6F-pK" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:00:09.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="abU0CS7EYTm7BgviOyuY" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="ji-dvn0qjL40lko-ON4k">
     <mxGraphModel dx="2835" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -376,20 +376,20 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-83" value="Windows Active Directory" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="278.5" y="164.63369863013702" width="120" height="38.73287671232877" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-84" value="RLS and CLS in Systems" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-84" value="RLS and CLS &lt;br&gt;in Data Systems" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="418.5" y="164.63369863013702" width="120" height="38.73287671232877" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-85" value="Wesco Current State Architecture" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="10" width="210" height="120" as="geometry" />
+          <mxGeometry x="595" y="10" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-86" value="Project: Data Discovery Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-85">
-          <mxGeometry y="30" width="210" height="30" as="geometry" />
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-87" value="Author: Anish Bapna" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-85">
-          <mxGeometry y="60" width="210" height="30" as="geometry" />
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-88" value="Last Updated: 17 April 2023" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-85">
-          <mxGeometry y="90" width="210" height="30" as="geometry" />
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_chart-toggle-legend-16.png" vertex="1" parent="1">
           <mxGeometry x="-110" y="860" width="16" height="16" as="geometry" />
@@ -418,7 +418,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-92" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="293.5" y="555.6861643835616" width="230" height="99.3150684931507" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-35" value="Target Enterprise Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-35" value="Target Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
           <mxGeometry width="230" height="99.31506849315069" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-38" value="Azure Power BI" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
@@ -448,33 +448,47 @@
         <mxCell id="TrwFLLRDorfKgAdVW_bD-260" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="LwUS36X5Wv06FeCUHuJ4-100" vertex="1">
           <mxGeometry x="30" y="35" width="148.84" height="80.52" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-99" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-100">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-99" value="TimesTen Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-100">
           <mxGeometry x="460" y="40" width="148.84" height="80.52" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-101" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-420" y="470" width="640" height="130" as="geometry" />
+          <mxGeometry x="-410" y="470" width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-102" value="Wesco Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-102" value="Target Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
           <mxGeometry width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-103" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-103" value="Azure Data Lake Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
           <mxGeometry x="30" y="35" width="148.84" height="80.52" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-104" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
-          <mxGeometry x="460" y="40" width="148.84" height="80.52" as="geometry" />
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-104" value="Azure Synapse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
+          <mxGeometry x="460" y="38" width="148.84" height="80.52" as="geometry" />
+        </mxCell>
+        <mxCell id="o0MfEB6f52l3Gd9McWNE-2" value="Azure Databricks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
+          <mxGeometry x="245.58" y="40" width="148.84" height="80.52" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-105" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-414" y="320" width="640" height="130" as="geometry" />
+          <mxGeometry x="-411" y="320" width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-106" value="Wesco Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-106" value="Anixter Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
           <mxGeometry width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-107" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-107" value="Microsoft SQL Server&lt;br&gt;IAP Datawarehouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
           <mxGeometry x="30" y="35" width="148.84" height="80.52" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-108" value="Teradata UDM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-108" value="Microsoft Statistical Analysis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
           <mxGeometry x="460" y="40" width="148.84" height="80.52" as="geometry" />
         </mxCell>
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-109" value="Notes on Current State Architecture&lt;br&gt;&lt;ul&gt;&lt;li&gt;&amp;lt;To be updated&amp;gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1080" width="1340" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vS8wX825Y_YrfQPUk-PU" name="Page-2">
+    <mxGraphModel dx="794" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
