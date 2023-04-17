@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T09:14:31.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RYugSFsAJQ25zuVCaoNC" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:17:51.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="L_jKQ30wslvtzvmsaQox" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="ji-dvn0qjL40lko-ON4k">
-    <mxGraphModel dx="2294" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3119" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,10 +25,10 @@
         <mxCell id="o0MfEB6f52l3Gd9McWNE-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-811" y="141" width="1585" height="938" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-268" value="Enterprise Data Security &amp;amp; Governance&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-268" value="Enterprise Data Platform Security &amp;amp; Governance&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="1040" width="300" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-261" value="Enterprise Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-261" value="Enterprise Data Platform Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="340.5" y="138" width="689.5" height="540" as="geometry" />
         </mxCell>
         <mxCell id="TrwFLLRDorfKgAdVW_bD-265" value="Enterprise Data Platform Upstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
@@ -238,13 +238,13 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-60" value="" style="group" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="340" y="668" width="690" height="269" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-59" value="Enterprise Data Platform Downstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-60">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-59" value="Enterprise Data Platform Downstream Applications&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-60">
           <mxGeometry y="20" width="690" height="249" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-44" value="" style="group" vertex="1" connectable="0" parent="LwUS36X5Wv06FeCUHuJ4-60">
           <mxGeometry x="23.793103448275865" y="69" width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-43" value="Anixter DWH Downstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-44">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-43" value="Anixter Data Platform Downstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-44">
           <mxGeometry width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TrwFLLRDorfKgAdVW_bD-196" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
@@ -288,7 +288,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-45" value="" style="group" vertex="1" connectable="0" parent="LwUS36X5Wv06FeCUHuJ4-60">
           <mxGeometry x="356.89655172413796" y="69" width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-46" value="Wesco DWH Downstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-45">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-46" value="Wesco Data Platform Downstream Systems&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-45">
           <mxGeometry width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-47" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-45">
@@ -329,7 +329,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-58" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-45">
           <mxGeometry x="157.0344827586207" y="74" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-262" value="Enterprise Data Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-262" value="Enterprise Data Platform Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="o0MfEB6f52l3Gd9McWNE-4" vertex="1">
           <mxGeometry x="1040" y="138" width="301" height="800" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-4" value="CORE Reports,&lt;br&gt;IRIS Reports&lt;br&gt;Inventory Reports&lt;br&gt;Greenline Reports&lt;br&gt;Customer Reports" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="o0MfEB6f52l3Gd9McWNE-4">
@@ -338,7 +338,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-81" value="" style="group" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="340.5" width="689.5" height="128" as="geometry" />
         </mxCell>
-        <object label="Enterprise ETL Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" Name="ETL Layer" Info="There are multiple technologies which forms the ETL layer for the data platform. For Anixter, it is the SQL Stored Procedures as well as SSIS packages which are mostly used to perform ETL. Control-EM is used as a workflow scheduler." id="TrwFLLRDorfKgAdVW_bD-243">
+        <object label="Enterprise Data Platform ETL Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" Name="ETL Layer" Info="There are multiple technologies which forms the ETL layer for the data platform. For Anixter, it is the SQL Stored Procedures as well as SSIS packages which are mostly used to perform ETL. Control-EM is used as a workflow scheduler." id="TrwFLLRDorfKgAdVW_bD-243">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-81" vertex="1">
             <mxGeometry width="689.5" height="128" as="geometry" />
           </mxCell>
@@ -418,7 +418,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-92" value="" style="group" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="1073.5" y="443.6861643835616" width="230" height="99.3150684931507" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-35" value="Target Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-35" value="Target Reporting Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
           <mxGeometry width="230" height="99.31506849315069" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-38" value="Azure Power BI" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-92">
@@ -478,7 +478,7 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-108" value="Microsoft Statistical Analysis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
           <mxGeometry x="460" y="40" width="148.84" height="80.52" as="geometry" />
         </mxCell>
-        <mxCell id="o0MfEB6f52l3Gd9McWNE-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CURRENT STATE ENTERPRISE DATA SYSTEMS ARCHITECTURE BLUEPRINT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="o0MfEB6f52l3Gd9McWNE-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CURRENT STATE ENTERPRISE DATA PLATFORM ARCHITECTURE BLUEPRINT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-814" y="20" width="1340" height="60" as="geometry" />
         </mxCell>
       </root>
