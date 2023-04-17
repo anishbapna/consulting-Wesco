@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T09:50:44.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E2jEnIeFfuVh5lOjxFy5" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-17T09:54:40.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="8ZSvTM7tClT1zYicU-e2" version="21.1.8" type="github" pages="2">
   <diagram name="Page-1" id="ji-dvn0qjL40lko-ON4k">
-    <mxGraphModel dx="2614" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2835" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,48 +241,48 @@
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-59" value="&lt;b&gt;Enterprise Data Platform Downstream Applications&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-60">
           <mxGeometry y="20" width="690" height="249" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-44" value="" style="group" vertex="1" connectable="0" parent="LwUS36X5Wv06FeCUHuJ4-60">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-44" value="" style="group;fillColor=#98A2B0;" vertex="1" connectable="0" parent="LwUS36X5Wv06FeCUHuJ4-60">
           <mxGeometry x="23.793103448275865" y="69" width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-43" value="&lt;i&gt;Anixter Data System Downstream Applications&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-44">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-43" value="&lt;i&gt;Anixter Data System Downstream Applications&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#98A2B0;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-44">
           <mxGeometry width="309.3103448275862" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-196" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-196" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="11.896551724137932" y="30" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-197" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;IAP Web&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-197" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;IAP Web&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="30" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-198" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;MS-Access&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-198" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;MS-Access&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="11.896551724137932" y="52" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-199" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;PROS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-199" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;PROS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="11.896551724137932" y="74" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-200" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Extranet&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-200" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;Extranet&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="52" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <object label="&lt;font style=&quot;font-size: 8px;&quot;&gt;IRIS Reports&lt;/font&gt;" Info="IRIS Reports is very important for Warehouse Management. These are used by internal warehouse management team as well as some reports directly goto customers. The files for IRIS reports are built in SSRS. The stored procedures are used to built the data and then the SSRS is used to create the reports as well as it is used to send it. The reports are triggered through Control-EM jobs. A total of 2423 reports are present in SSRS." id="TrwFLLRDorfKgAdVW_bD-204">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <object label="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;IRIS Reports&lt;/font&gt;" Info="IRIS Reports is very important for Warehouse Management. These are used by internal warehouse management team as well as some reports directly goto customers. The files for IRIS reports are built in SSRS. The stored procedures are used to built the data and then the SSRS is used to create the reports as well as it is used to send it. The reports are triggered through Control-EM jobs. A total of 2423 reports are present in SSRS." id="TrwFLLRDorfKgAdVW_bD-204">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
             <mxGeometry x="11.896551724137932" y="97" width="142.75862068965517" height="20" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-205" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;CORE Reports&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-205" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;CORE Reports&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="97" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-206" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-206" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="11.896551724137932" y="120" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-207" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-207" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="120" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-208" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-208" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="11.896551724137932" y="143" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-209" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-209" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;WESCO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="143" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TrwFLLRDorfKgAdVW_bD-234" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
+        <mxCell id="TrwFLLRDorfKgAdVW_bD-234" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 8px;&quot;&gt;Blue Yonder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007BB9;" parent="LwUS36X5Wv06FeCUHuJ4-44" vertex="1">
           <mxGeometry x="157.0344827586207" y="74" width="142.75862068965517" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-45" value="" style="group" vertex="1" connectable="0" parent="LwUS36X5Wv06FeCUHuJ4-60">
@@ -466,10 +466,10 @@
         <mxCell id="o0MfEB6f52l3Gd9McWNE-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Azure Databricks&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050EF;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-101">
           <mxGeometry x="245.58" y="40" width="148.84" height="80.52" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-105" value="" style="group;fillColor=#777575;" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-105" value="" style="group;fillColor=#BECADB;" vertex="1" connectable="0" parent="o0MfEB6f52l3Gd9McWNE-4">
           <mxGeometry x="369" y="208" width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="LwUS36X5Wv06FeCUHuJ4-106" value="&lt;i&gt;Anixter Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
+        <mxCell id="LwUS36X5Wv06FeCUHuJ4-106" value="&lt;i&gt;Anixter Data Storage Layer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7C3D4;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
           <mxGeometry width="640" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LwUS36X5Wv06FeCUHuJ4-107" value="&lt;font color=&quot;#ffffff&quot;&gt;Microsoft SQL Server&lt;br&gt;IAP Datawarehouse&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#007BB9;" vertex="1" parent="LwUS36X5Wv06FeCUHuJ4-105">
